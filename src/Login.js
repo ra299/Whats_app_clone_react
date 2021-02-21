@@ -28,9 +28,9 @@ function Login(){
           alt=""
         />
           <div className = "login__text">
-            <h1>sing in to WhatsApp</h1>
+            <h1>sign in to WhatsApp</h1>
           </div>
-            <Button onClick= {singIn}>Sing In With Google</Button>
+            <Button onClick= {singIn}>Sign In With Google</Button>
       </div>
     </div>
   );
